@@ -193,6 +193,25 @@ for ( i = 0; i < N; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/meanstdev`][@stdlib/stats/incr/meanstdev]: compute an arithmetic mean and corrected sample standard deviation incrementally.
+-   [`@stdlib/stats/incr/mmean`][@stdlib/stats/incr/mmean]: compute a moving arithmetic mean incrementally.
+-   [`@stdlib/stats/incr/mmeanvar`][@stdlib/stats/incr/mmeanvar]: compute a moving arithmetic mean and unbiased sample variance incrementally.
+-   [`@stdlib/stats/incr/mstdev`][@stdlib/stats/incr/mstdev]: compute a moving corrected sample standard deviation incrementally.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -251,6 +270,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [arithmetic-mean]: https://en.wikipedia.org/wiki/Arithmetic_mean
 
 [standard-deviation]: https://en.wikipedia.org/wiki/Standard_deviation
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/meanstdev]: https://github.com/stdlib-js/stats-incr-meanstdev
+
+[@stdlib/stats/incr/mmean]: https://github.com/stdlib-js/stats-incr-mmean
+
+[@stdlib/stats/incr/mmeanvar]: https://github.com/stdlib-js/stats-incr-mmeanvar
+
+[@stdlib/stats/incr/mstdev]: https://github.com/stdlib-js/stats-incr-mstdev
+
+<!-- </related-links> -->
 
 </section>
 
